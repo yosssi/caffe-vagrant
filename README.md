@@ -1,2 +1,1 @@
-# caffe-vagrant
-Vagrantfile for Caffe
+# Vagrantfile for Caffe
